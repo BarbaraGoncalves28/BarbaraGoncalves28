@@ -15,13 +15,10 @@
 ### 📬 Entre em contato:  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/-barbaragoncalves/)  
 - 📧 [E-mail](barbaragoncalves2806@gmail.com)  
-- ☎️ (64) 98133-9346  
+- ☎️ (64) 98133-9346
 
-![Tech Animation](https://media.giphy.com/media/3ohhwzXwJScDAG60ZK/giphy.gif) <!-- Novo GIF tecnológico -->
-
-
-
-
+<br>
+<br>
 
 ![Bárbara's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BarbaraGoncalves28&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BarbaraGoncalves28&layout=compact&theme=radical)
