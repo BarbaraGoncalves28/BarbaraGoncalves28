@@ -22,8 +22,6 @@
 
 
 
-### 🐍 Cobrinha dos commits
-![snake gif](https://github.com/BarbaraGoncalves28/BarbaraGoncalves28/blob/output/github-snake.svg)
 
 
 
