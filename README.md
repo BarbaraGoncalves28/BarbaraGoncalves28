@@ -1,38 +1,19 @@
-💻 Olá! Eu me chamo Bárbara Gonçalves, sou uma Programadora Front-End, atualmente estou aprendendo e criando projetos com:
+# Olá! Eu sou Bárbara Gonçalves 👋  
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-</div>
+💻 Desenvolvedora Front-end | HTML | CSS | JavaScript | React | TypeScript  
 
- ##
+🚀 Apaixonada por criar interfaces interativas e experiências incríveis na web.  
 
-<div>
-  <a href="https://www.linkedin.com/in/-barbaragoncalves" target="_blank">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BarbaraGoncalves28&show_icons=true&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BarbaraGoncalves28&layout=compact&langs_count16&theme=dracula"/>
-</div>
+📌 **Tecnologias**  
+![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5)  
+![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)  
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript)  
 
-##
+📫 Contato: [LinkedIn](https://www.linkedin.com/in/-barbaragoncalves/) 
 
- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
- <strong>Meus contatos:</strong>
- 
-<div> 
-  <a href = "mailto:barbaragoncalves2806@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/-barbaragoncalves" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-
-##
-
- <strong>Ferramenta de trabalho:</strong>
-
-![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
-
-##
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+![Bárbara's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BarbaraGoncalves28&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BarbaraGoncalves28&layout=compact&theme=radical)
 
 
