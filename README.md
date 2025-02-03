@@ -11,7 +11,10 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)  
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript)  
 
-📫 Contato: [LinkedIn](https://www.linkedin.com/in/-barbaragoncalves/) 
+📫 Entre em contato:
+🌐 [LinkedIn](https://www.linkedin.com/in/-barbaragoncalves/) 
+📧 [E-mail](barbaragoncalves2806@gmail.com)
+☎️ [6498133-9346]
 
 ![Bárbara's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BarbaraGoncalves28&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BarbaraGoncalves28&layout=compact&theme=radical)
