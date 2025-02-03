@@ -1,22 +1,16 @@
-# Olá! Eu sou Bárbara Gonçalves 👋
+# Olá! Eu sou Bárbara Gonçalves 👋  
 
-💻 **Desenvolvedora Front-end** | HTML | CSS | JavaScript | React Js | TypeScript  
+💻 Desenvolvedora Front-end | HTML | CSS | JavaScript | React Js | TypeScript  
 
-🚀 **Apaixonada por criar interfaces interativas e experiências incríveis na web.**
+🚀 Apaixonada por criar interfaces interativas e experiências incríveis na web.  
 
-![Welcome Animation](https://media.giphy.com/media/2A9lVNkV54ieZYtXph/giphy.gif) <!-- Novo GIF de boas-vindas -->
-
----
-
-## 📌 **Tecnologias**  
+📌 **Tecnologias**  
 <br>
-![HTML](https://img.shields.io/badge/-HTML-FF5733?style=flat-square&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/-CSS-2965F1?style=flat-square&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)  
-
----
+![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5)  
+![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)  
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript)  
 
 ### 📬 Entre em contato:  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/-barbaragoncalves/)  
