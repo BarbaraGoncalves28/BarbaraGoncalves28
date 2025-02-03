@@ -22,7 +22,9 @@
 
 
 
-![snake gif](https://raw.githubusercontent.com/BarbaraGoncalves28/BarbaraGoncalves28/output/github-snake.svg)
+### 🐍 Cobrinha dos commits
+![snake gif](https://github.com/BarbaraGoncalves28/BarbaraGoncalves28/blob/output/github-snake.svg)
+
 
 
 
